@@ -1,9 +1,9 @@
 # Lead-Qualification-Agent
-This is an autonomous sales agents that automatically qualifies leads based on the companies criteria, the agent immediately qualifies and triggers the next steps for the sales team.
+This is an autonomous sales agents that automatically qualifies leads based on the companies criteria, the agent immediately qualifies and triggers the next steps for the sales team built for Funmisols Consulting Limited, an analytics firm tailored to serve SaaS businesses, big development firms, MSME's,etc.
 
-**PURPOSE**: Companies who market themselves well soon have far too many people reaching out to them, many of which are not a good fit or "qualified" for what they sell(e.g, they are too small/not the right industry). This process of researching a new lead and deciding whether or not to take a call is known as qualification, which is what the agent automates.
+**PURPOSE**: Companies who market themselves well soon have far too many people reaching out to them, many of which are not a good fit or "qualified" for what they sell(e.g, they are too small/not the right industry). This process of researching a new lead and deciding whether or not to take a call is known as qualification, which is what the agent automates, it qualifies leads into big development firms or SaaS businesses and sends the email specific to each of the categories.
 
-**IMPACT**: This helps the sales team prioritise high potential prspects, ensuring time is spent on leads likely to convert rather than casual researches.
+**BUSINESS IMPACT**: This helps the sales team prioritise high potential prspects, ensuring time is spent on leads likely to convert rather than casual researches, this helps to save time.
 
 **USAGE/PROCESS**:
 
